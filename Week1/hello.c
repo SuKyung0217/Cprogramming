@@ -3,9 +3,9 @@
 int main(void) 
 {
 	printf("+============+\n");
-	printf("|ÄÄÇ»ÅÍÁ¤º¸°ú|\n");
+	printf("|컴퓨터정보과|\n");
 	printf("+------------+\n");
-	printf("|   ±è¼ö°æ   |\n");
+	printf("|   김수경   |\n");
 	printf("+============+\n");
 	return 0;
 }
